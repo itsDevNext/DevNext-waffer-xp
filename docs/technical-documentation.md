@@ -41,19 +41,19 @@ Workflow/Activity Diagram
 <img width="468" height="1200" alt="mermaid-diagram-2026-06-30-181554" src="https://github.com/user-attachments/assets/5040f7f4-e1b3-4c1b-ac29-8a9f90a093ca" />
 
 ## Core Features
-o	User Authentication
+###	User Authentication
 Users can securely create an account and log in using Supabase Authentication.
 
-o	Savings Goals
+###	Savings Goals
 Users create savings goals by defining:
 	Goal name
 	Target amount
 	Deadline
 
-o	Progress Tracking
+### Progress Tracking
 The application visualizes savings progress using interactive progress bars, completion percentages, milestone indicators, and goal completion status, allowing users to clearly monitor their financial journey.
 
-o	Gamification System
+### Gamification System
 The application rewards positive financial behaviour using:
 	XP Points for reaching savings milestones
 	Level progression to reward consistent saving behaviour
@@ -61,7 +61,7 @@ The application rewards positive financial behaviour using:
 	Saving streaks that encourage regular contributions
 	Weekly challenges that promote short-term saving habits
 
-o	Dashboard
+### Dashboard
 The dashboard provides users with:
 	Current savings progress
 	Active challenges
@@ -70,7 +70,7 @@ The dashboard provides users with:
 	Earned achievements
 	Upcoming milestones
 
-o	Database Design
+### Database Design
 	users
 Stores user account information.
 	savings_goals

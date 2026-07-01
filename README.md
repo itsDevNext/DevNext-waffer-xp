@@ -135,8 +135,8 @@ DevNext-waffer-xp/
 │           ├── extensions/
 │           └── enums/
 │
-└── supabase/
-    └── README.md
+└── backend/
+    └── supabase/
 ```
 
 ---

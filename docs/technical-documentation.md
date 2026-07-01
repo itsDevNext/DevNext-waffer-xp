@@ -98,3 +98,5 @@ The application applies behavioural design principles identified during user res
 
 ## Conclusion
 Waffer XP combines financial goal management with behavioural design and gamification to encourage consistent saving habits. By integrating progress tracking, XP rewards, achievements, challenges, and milestone-based feedback, the application transforms saving into an engaging experience while promoting long-term financial discipline. The proposed architecture also provides a scalable foundation for future enhancements such as AI recommendations, Open Banking integration, and personalized financial coaching.
+
+[Waffer XP.pdf](https://github.com/user-attachments/files/29552319/Waffer.XP.pdf)

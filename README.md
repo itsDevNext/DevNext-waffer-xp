@@ -22,7 +22,7 @@ Waffer XP is a gamified savings application that transforms saving money into an
 ### Frontend
 - Flutter
 - Dart
-- Flutter Lottie
+- Lottie
 
 ### Backend
 - Supabase

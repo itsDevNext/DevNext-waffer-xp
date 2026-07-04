@@ -176,4 +176,4 @@ supabase start
 
 ## License
 
-This project was developed for the DevNext Hackathon.
+This project was developed by DevNext Team for Amad Hackathon.

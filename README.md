@@ -8,8 +8,11 @@ Waffer XP is a gamified savings application that transforms saving money into an
 
 - User Authentication
 - Savings Goal Management
-- Progress Tracking
-- XP & Level System
+- Progress Tracking:
+  - Progress bars
+- XP & Level System:
+  - Milestone celebrations
+  - Recovery missions
 - Achievement Badges
 - Weekly Challenges
 - Personalized Dashboard
@@ -165,6 +168,8 @@ supabase start
 ```
 
 ---
+
+
 
 ## Team
 

@@ -12,7 +12,7 @@ Built for **Amad Hackathon 2026**
 
 - 🎨 [Figma Prototype](https://www.figma.com/design/RH56eyMkJk7otX0elw5k7v/%D9%88%D9%81%D8%B1-XP?node-id=276-267&p=f&t=vE8QtiiOVcjYBbOc-0)
 - 📄 [Presentation 1](https://github.com/itsDevNext/DevNext-waffer-xp/blob/yooryr-patch-1/HackathonAmad-WafferXP.pdf)
-- 📄 [Presentation 2](
+- 📄 [Presentation 2](https://github.com/itsDevNext/DevNext-waffer-xp/blob/develop/_%20%D9%82%D8%A7%D9%84%D8%A8%20%D8%B9%D8%B1%D9%88%D8%B6%20%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9%20_%20%D9%87%D8%A7%D9%83%D8%A7%D8%AB%D9%88%D9%86%20%D8%A7%D9%85%D8%AF%2026.pdf)
 
 # 📖 Overview
 

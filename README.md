@@ -1,150 +1,124 @@
-# Waffer XP
+# 💰 Waffer XP
 
-Waffer XP is a gamified savings application that transforms saving money into an engaging and rewarding experience. Users create savings goals, track their progress, earn XP, unlock achievements, and complete challenges to build consistent financial habits.
+> A gamified savings application that transforms saving money into an engaging and rewarding experience.
 
----
+Built for **Amad Hackathon 2026**
 
-## Features
-
-- User Authentication
-- Savings Goal Management
-- Progress Tracking:
-  - Progress bars
-- XP & Level System:
-  - Milestone celebrations
-  - Recovery missions
-- Achievement Badges
-- Weekly Challenges
-- Personalized Dashboard
-- Notifications
+**Flutter • Supabase • PostgreSQL • Figma**
 
 ---
 
-## Technology Stack
+## 🔗 Quick Links
 
-### Frontend
+- 🎨 [Figma Prototype](https://www.figma.com/design/RH56eyMkJk7otX0elw5k7v/%D9%88%D9%81%D8%B1-XP?node-id=276-267&p=f&t=vE8QtiiOVcjYBbOc-0)
+- 📄 [Presentation](https://github.com/itsDevNext/DevNext-waffer-xp/blob/yooryr-patch-1/HackathonAmad-WafferXP.pdf)
+
+# 📖 Overview
+
+Waffer XP helps users build healthier financial habits by turning saving into a fun and rewarding experience. Instead of simply setting money aside, users create savings goals, complete saving challenges, earn XP, unlock achievements, and track their progress through an interactive dashboard.
+
+The application offers two saving methods:
+
+- **Monthly Challenge** – Save a fixed amount each month.
+- **Round-Up Challenge** – Round up purchases and automatically save the difference.
+
+---
+
+# ❓ The Problem
+
+Many people struggle to save consistently because traditional saving methods lack motivation, progress visualization, and rewarding experiences. As a result, users often lose motivation before reaching their financial goals.
+
+---
+
+# ✅ The Solution
+
+Waffer XP introduces gamification into personal finance by rewarding users for consistent saving. Through XP, achievements, challenges, and visual progress tracking, saving becomes engaging rather than repetitive.
+
+---
+
+# ✨ Features
+
+### User Authentication
+- Secure authentication with Supabase
+
+### Savings Goal Management
+- Create savings goals
+- Set target amounts
+- Track remaining balance
+
+### Monthly Challenge
+- Manual or automatic monthly contributions
+- Flexible monthly saving amount
+
+### Round-Up Challenge
+- Automatically save spare change from purchases
+- Multiple round-up options
+
+### Progress Tracking
+- Progress bars
+- Goal completion percentage
+- Savings overview
+
+### XP & Gamification
+- Earn XP while saving
+- Level progression
+- Milestone celebrations
+- Recovery missions
+
+### Achievement Badges
+- Unlock rewards for reaching milestones
+
+### Weekly Challenges
+- Complete saving missions
+- Earn bonus XP
+
+### Personalized Dashboard
+- View active goals
+- Track XP and progress
+- Monitor achievements
+
+### Notifications
+- Saving reminders
+- Challenge updates
+- Achievement notifications
+
+---
+
+# 🛠 Technology Stack
+
+## Frontend
 - Flutter
 - Dart
 - Lottie
 
-### Backend
+## Backend
 - Supabase
 - PostgreSQL
 
-### Design
+## Design
 - Figma
 
 ---
 
-## Project Structure
+# 📂 Project Structure
 
 ```text
 DevNext-waffer-xp/
-│
-├── README.md
-├── .gitignore
-│
-├── docs/
-│   └──  technical-documentation.pdf
-│
 ├── frontend/
-│   ├── pubspec.yaml
-│   ├── analysis_options.yaml
-│   ├── README.md
-│   │
-│   ├── android/
-│   ├── ios/
-│   ├── web/
-│   ├── linux/
-│   ├── macos/
-│   ├── windows/
-│   ├── test/
-│   │
 │   ├── assets/
-│   │   ├── fonts/
-│   │   ├── icons/
-│   │   ├── images/
-│   │   └── lottie/
-│   │
-│   └── lib/
-│       │
-│       ├── main.dart
-│       │
-│       ├── app/
-│       │   ├── app.dart
-│       │   ├── router.dart
-│       │   └── theme.dart
-│       │
-│       ├── core/
-│       │   ├── constants/
-│       │   ├── services/
-│       │   ├── utils/
-│       │   └── widgets/
-│       │
-│       ├── features/
-│       │   │
-│       │   ├── auth/
-│       │   │   ├── controller/
-│       │   │   ├── data/
-│       │   │   └── view/
-│       │   │       ├── screens/
-│       │   │       └── widgets/
-│       │   │
-│       │   ├── dashboard/
-│       │   │   ├── controller/
-│       │   │   ├── data/
-│       │   │   └── view/
-│       │   │       ├── screens/
-│       │   │       └── widgets/
-│       │   │
-│       │   ├── savings_goals/
-│       │   │   ├── controller/
-│       │   │   ├── data/
-│       │   │   └── view/
-│       │   │       ├── screens/
-│       │   │       └── widgets/
-│       │   │
-│       │   ├── progress_tracking/
-│       │   │   ├── controller/
-│       │   │   ├── data/
-│       │   │   └── view/
-│       │   │       ├── screens/
-│       │   │       └── widgets/
-│       │   │
-│       │   ├── gamification/
-│       │   │   ├── controller/
-│       │   │   ├── data/
-│       │   │   └── view/
-│       │   │       ├── screens/
-│       │   │       └── widgets/
-│       │   │
-│       │   ├── profile/
-│       │   │   ├── controller/
-│       │   │   ├── data/
-│       │   │   └── view/
-│       │   │       ├── screens/
-│       │   │       └── widgets/
-│       │   │
-│       │   └── notifications/
-│       │       ├── controller/
-│       │       ├── data/
-│       │       └── view/
-│       │           ├── screens/
-│       │           └── widgets/
-│       │
-│       └── shared/
-│           ├── models/
-│           ├── widgets/
-│           ├── extensions/
-│           └── enums/
-│
-└── backend/
-    └── supabase/
+│   ├── lib/
+│   │   ├── app/
+│   │   ├── core/
+│   │   ├── features/
+│   │   └── shared/
+├── backend/
+│   └── supabase/
+└── docs/
 ```
 
 ---
 
-## Getting Started
+# 🚀 Getting Started
 
 ### Clone the repository
 
@@ -160,7 +134,7 @@ flutter pub get
 flutter run
 ```
 
-### Backend (Supabase)
+### Backend
 
 ```bash
 cd backend
@@ -169,9 +143,18 @@ supabase start
 
 ---
 
+# 🔮 Future Improvements
 
+- Open Banking integration
+- Automatic bank transactions
+- AI-powered saving recommendations
+- Spending analytics
+- Leaderboards
+- Social saving challenges
 
-## Team
+---
+
+# 👥 Team
 
 - Lamyaa Alghaihab
 - Thikera Ahmed
@@ -179,6 +162,6 @@ supabase start
 
 ---
 
-## License
+# 📄 License
 
-This project was developed by DevNext Team for Amad Hackathon.
+Developed by **DevNext Team** for **Amad Hackathon 2026**.

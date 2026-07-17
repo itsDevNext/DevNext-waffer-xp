@@ -11,7 +11,7 @@ Built for **Amad Hackathon 2026**
 ## 🔗 Quick Links
 
 - 🎨 [Figma Prototype](https://www.figma.com/design/RH56eyMkJk7otX0elw5k7v/%D9%88%D9%81%D8%B1-XP?node-id=276-267&p=f&t=vE8QtiiOVcjYBbOc-0)
-- 📄 [Presentation]([https://docs.google.com/presentation/d/11MqvBwyBaTVMg_ErC_BVl3pO6B6caFhbnyEkKQoPKsI/edit?usp=sharing](https://tahkeem-files.tuwaiq.edu.sa/submissions/f0fab48e-ed43-4f06-a634-d157aae946f5/0a29a549-67b6-496e-96db-6c5eb8fd7470-%D8%B9%D8%B1%D9%88%D8%B6%20%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8%20_%20%D8%A7%D9%85%D8%AF%202026.pdf?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=LTAI5tFXpEYW6ysmneVnqpLz%2F20260717%2Fme-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260717T085348Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Signature=0f37fb4f4e4da791aece326e017c297341967a2e324f17261771b3d901ec7f19))
+- 📄 [Presentation](https://github.com/itsDevNext/DevNext-waffer-xp/blob/yooryr-patch-1/HackathonAmad-WafferXP.pdf)
 
 # 📖 Overview
 
